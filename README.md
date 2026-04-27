@@ -29,7 +29,7 @@ El proyecto contiene las siguientes gráficas:
 * **Relación entre renovables y CO₂:** permite observar si existe alguna relación entre ambas variables
 
 
-## 🎯 Objetivo 
+## Objetivo 
 
 El objetivo principal es observar patrones y comportamientos en los datos, como:
 
@@ -48,6 +48,5 @@ El objetivo principal es observar patrones y comportamientos en los datos, como:
 
 ## Realizado por :
 * Leslly Natalia Hurtado Galeano 
-* *Manuel Felipe Bermudez 
+* Manuel Felipe Bermudez 
 
-Proyecto académico desarrollado como parte de un ejercicio de análisis y visualización de datos.
